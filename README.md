@@ -3,6 +3,7 @@
   <img align="left" alt="Rodrigo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
+<br>
 <p>I'm Rodrigo López a full stack developer, a mechanical engineer and a data science entuthiast. I've graduated as a mechanical Engineer from Balseiro Institute and studied full-stack development at HENRY Bootcamp.</p>
 
 <p > During my first job experience, I realized how meaningful is data in the world we are currently living. I think that the way we interact with data can change, improve or create different technologies. At this moment we have easy access to a lot of data, but still there's a long road ahead to analyze or proccess them. With the use of statistics and applied math, it is possible to make different models that can predict how data can evolve in the future. Considering all of this, I decided to study a master degree in data science, starting in October 2021!</p>
